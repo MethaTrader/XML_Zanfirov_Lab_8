@@ -1,0 +1,82 @@
+<ArrayOfSubject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Subject>
+        <Name>Мова програмування JAVA</Name>
+        <Teacher>Назаренко</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>4</Course>
+        <Semester>1</Semester>
+        <Hours>10</Hours>
+    </Subject>
+    <Subject>
+        <Name>Технології XML</Name>
+        <Teacher>Коротун</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>2</Course>
+        <Semester>2</Semester>
+        <Hours>15</Hours>
+    </Subject>
+    <Subject>
+        <Name>Ремонт і налагодження ПК</Name>
+        <Teacher>Тітков</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>1</Course>
+        <Semester>1</Semester>
+        <Hours>25</Hours>
+    </Subject>
+    <Subject>
+        <Name>Основи криптографії</Name>
+        <Teacher>Антонюк</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>2</Course>
+        <Semester>2</Semester>
+        <Hours>40</Hours>
+    </Subject>
+    <Subject>
+        <Name>Бази даних</Name>
+        <Teacher>Проскудіна</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>2</Course>
+        <Semester>1</Semester>
+        <Hours>100</Hours>
+    </Subject>
+    <Subject>
+        <Name>Економіка IT-індустрії</Name>
+        <Teacher>Киба</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>1</Course>
+        <Semester>1</Semester>
+        <Hours>25</Hours>
+    </Subject>
+    <Subject>
+        <Name>Дискретні структури</Name>
+        <Teacher>Антонюк</Teacher>
+        <Department>Математика</Department>
+        <Course>4</Course>
+        <Semester>2</Semester>
+        <Hours>60</Hours>
+    </Subject>
+    <Subject>
+        <Name>Об'єктно-орієнтоване програмування</Name>
+        <Teacher>Коротун</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>3</Course>
+        <Semester>2</Semester>
+        <Hours>50</Hours>
+    </Subject>
+    <Subject>
+        <Name>Комп'ютерні мережі</Name>
+        <Teacher>Москаленко</Teacher>
+        <Department>Інформаційні технології</Department>
+        <Course>1</Course>
+        <Semester>1</Semester>
+        <Hours>40</Hours>
+    </Subject>
+    <Subject>
+        <Name>Іноземна мова</Name>
+        <Teacher>Яранцева</Teacher>
+        <Department>Лінгвістики</Department>
+        <Course>3</Course>
+        <Semester>1</Semester>
+        <Hours>70</Hours>
+    </Subject>
+</ArrayOfSubject>
